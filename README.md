@@ -1,6 +1,8 @@
 # Beejan Technology
 
 ## Conceptual Pipeline Architecture Summary
+<img width="1312" height="622" alt="image" src="https://github.com/user-attachments/assets/dfb668a0-18cf-4094-8a76-57964d8d3765" />
+
 ### Hybrid Ingestion Strategy:
  
 * Real-Time API Ingestion: Social media feeds and website contact forms are ingested near real-time via API endpoints and webhooks to rapidly capture urgent customer feedback.
