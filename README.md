@@ -1,7 +1,7 @@
 # Beejan Technology
 
 ## Conceptual Pipeline Architecture Summary
-<img width="1310" height="564" alt="image" src="https://github.com/user-attachments/assets/740c4cbc-95c1-44ec-a52c-dca53c655831" />
+<img width="1313" height="557" alt="image" src="https://github.com/user-attachments/assets/c6a2851b-74d5-4908-b3a5-db660cbb5261" />
 
 ### Hybrid Ingestion Strategy:
  
