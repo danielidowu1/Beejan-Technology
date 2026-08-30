@@ -17,4 +17,7 @@
 ### Cross-Cutting Governance & Engineering Controls:
 * Orchestration & Monitoring: Dynamically schedules, coordinates task dependencies, and monitors pipeline health across ingestion, transformation, and storage layers.
 * CI/CD & Version Control: Automates testing and deployment of data transformation scripts, infrastructure definitions, and schema changes across development and  production environments.
-Data Governance & Security: Enforces end-to-end access controls, role-based security (RBAC), data privacy compliance, and audit logging across every layer of the platform.
+* Data Governance & Security: Enforces end-to-end access controls, role-based security (RBAC), data privacy compliance, and audit logging across every layer of the platform.
+
+
+
